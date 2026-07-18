@@ -1,5 +1,7 @@
 # Laetiva Web
 
+> **Being split into separate repos.** Per Nneoma's direction to separate frontend apps from the Firebase backend before launch, this app has been extracted into two standalone local projects — `laetiva-website` (public landing page + CMS) and `laetiva-vendor-portal` (Vendor Portal + invoice share view) — ready to push once their GitHub repos exist. This directory is left as-is in the meantime so nothing currently depending on it breaks; it should be considered superseded once the new repos are live, and removed here to avoid drift.
+
 Next.js app covering the public landing page (14 pages), the CMS editor, and the Vendor Portal — per `docs/LANDING_PAGE_CMS_VENDOR_PORTAL_MAPPING.md`.
 
 ## Setup
